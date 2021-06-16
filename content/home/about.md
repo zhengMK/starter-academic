@@ -4,7 +4,7 @@ widget_id: change color
 headless: true
 weight: 20
 title: Biography
-active: true
+active: false
 author: admin
 design:
   background:
