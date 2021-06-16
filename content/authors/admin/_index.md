@@ -25,9 +25,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: M.Eng. in Electrical and Computer Engineering
+    - course: M.Eng. in Electrical and Computer Engineering, 2022 (Expected)
       institution: Cornell University
-      year: 2022
+      year: ""
     - course: B.Eng. in Electrical Engineering
       institution: University of Liverpool
       year: 2020
