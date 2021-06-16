@@ -10,5 +10,5 @@ design:
   background:
     color: ""
     text_color_light: false
-    gradient_start: "#17cea5"
+    gradient_start: ""
 ---
