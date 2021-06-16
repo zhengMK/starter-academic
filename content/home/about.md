@@ -8,5 +8,6 @@ active: true
 author: admin
 design:
   background:
-    color: "#475bcb"
+    color: "#000000"
+    text_color_light: true
 ---
