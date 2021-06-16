@@ -4,10 +4,11 @@ widget_id: change color
 headless: true
 weight: 20
 title: Biography
-active: false
+active: true
 author: admin
 design:
   background:
-    color: "#000000"
+    color: ""
     text_color_light: false
+    gradient_start: "#17cea5"
 ---
