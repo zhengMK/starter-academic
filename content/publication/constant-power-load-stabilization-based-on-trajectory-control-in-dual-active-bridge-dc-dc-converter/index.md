@@ -9,9 +9,9 @@ authors:
   - Haochen Shi
   - admin
 doi: 10.1109/IPEMC-ECCEAsia48364.2020.9368128
-publication: in "2020 IEEE 9th International Power Electronics and Motion
-  Control Conference"
-publication_short: in "IPEMC2020-ECCE Asia"
+publication: in *2020 IEEE 9th International Power Electronics and Motion
+  Control Conference*
+publication_short: in *IPEMC2020-ECCE Asia*
 abstract: This paper analysed the trajectory control (TC) based on natural
   switching surface (NSS) in dual-active-bridge (DAB) DC-DC converter. Which
   improves the fast transition process when load changes from constant resistor
