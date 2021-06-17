@@ -25,7 +25,7 @@ experience:
   - title: Design Verification Engineer
     company: Biren Technology
     company_url: 'https://www.birentech.com/'
-    company_logo: org-B
+#    company_logo: org-B
     location: Shanghai, China
     date_start: '2020-11-30'
 #    date_end: '2021-04-01'
