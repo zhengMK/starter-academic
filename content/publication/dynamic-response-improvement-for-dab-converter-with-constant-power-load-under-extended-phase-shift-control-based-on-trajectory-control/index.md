@@ -9,6 +9,8 @@ authors:
   - Qinglei Bu
   - Haochen Shi
 doi: 10.1109/IPEMC-ECCEAsia48364.2020.9368095
+publication: in *2020 IEEE 9th International Power Electronics and Motion
+  Control Conference*
 publication_short: in *IPEMC2020-ECCE Asia*
 abstract: Microgrid has been regarded by many researchers as the fundamental
   building block for the next generation power grid, where DC-DC converter plays
