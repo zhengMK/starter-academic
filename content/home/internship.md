@@ -28,7 +28,7 @@ experience:
     company_logo: org-B
     location: Shanghai, China
     date_start: '2020-11'
-    date_end: '2021-4'
+    date_end: '2021-04'
     description: 
 
 design:
