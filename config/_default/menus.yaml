@@ -17,7 +17,7 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Internship
-    url: '#internship'
+    url: '#experience'
     weight: 20
   - name: Publications
     url: '#publications'
