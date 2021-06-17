@@ -19,6 +19,9 @@ main:
   - name: Internship
     url: '#experience'
     weight: 20
+#  - name: Internship
+#    url: '#internship'
+#    weight: 20
   - name: Publications
     url: '#publications'
     weight: 30
