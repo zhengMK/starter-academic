@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.birentech.com/'
     company_logo: org-B
     location: Shanghai, China
-    date_start: '2020-11'
-    date_end: '2021-04'
+    date_start: '2020-11-30'
+    date_end: '2021-04-01'
     description: 
   - title: CEO
     company: GenCoin
