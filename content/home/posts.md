@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: posts
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Posts
+title: Recent Posts
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 2
+  count: 5
   # Filter on criteria
   filters:
     author: ""
@@ -39,4 +39,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
