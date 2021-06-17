@@ -9,6 +9,5 @@ author: admin
 design:
   background:
     color: ""
-<!--     text_color_light: true -->
     gradient_start: ""
 ---
