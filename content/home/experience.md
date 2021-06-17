@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Internship
 subtitle:
 
 # Date format for experience
@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#  - title: Design Verification Engineer
-#    company: Biren Technology
-#    company_url: 'https://www.birentech.com/'
-#    company_logo: org-B
-#    location: Shanghai, China
-#    date_start: '2020-11-30'
+  - title: Design Verification Engineer
+    company: Biren Technology
+    company_url: 'https://www.birentech.com/'
+    company_logo: org-B
+    location: Shanghai, China
+    date_start: '2020-11-30'
 #    date_end: '2021-04-01'
 #    description: 
   - title: CEO
