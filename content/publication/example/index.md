@@ -34,7 +34,7 @@ url_video: ""
 title: Open-Circuit Fault Diagnosis of Dual Active Bridge DC-DC Converter With
   Extended-Phase-Shift Control
 doi: 10.1109/ACCESS.2019.2899133
-featured: true
+featured: false
 tags:
   - DAB Converter
 categories:
