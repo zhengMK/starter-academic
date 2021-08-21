@@ -42,6 +42,6 @@ Hi, there! I am Mingkai Zheng, an incoming M.Eng. student in the Department of E
 
 I have participated in some research projects related to power electronics, especially in Dual-Active-Bridge (DAB) DC-DC Converter. Though this might be a minor research direction, still, I believe the accumulated research experience will be helpful for my future research projects, whether I choose to persist in this field or not.
 
-Now, after attending some inspiring online open-source courses, including [CS61B: Data Structure and Algorithms](https://sp19.datastructur.es/) and [CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) provided by UC Berkeley, and [6.s081: Operating System](https://pdos.csail.mit.edu/6.S081/2020/) provided by MIT, I found myself deeply attracted by computer engineering. Therefore, I'd like to investigate deeper into this field through my master's project and continue conducting research projects for my Ph.D. degree. 
+Now, after attending some inspiring open-source courses, including [CS61B: Data Structure and Algorithms](https://sp19.datastructur.es/) and [CS61C: Great Ideas in Computer Architecture](https://cs61c.org/su20/) provided by UC Berkeley, and [6.s081: Operating System](https://pdos.csail.mit.edu/6.S081/2020/) provided by MIT, I found myself deeply attracted by computer engineering. Therefore, I'd like to investigate deeper into this field through my master's project and continue conducting research projects for my Ph.D. degree. 
 
 🌟 **I am now actively looking for a Ph.D. position in computer architecture**.
