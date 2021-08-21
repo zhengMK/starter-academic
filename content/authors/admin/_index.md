@@ -25,7 +25,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: M.Eng. in Electrical and Computer Engineering, 2022 (Expected)
+    - course: M.Eng. in Electrical and Computer Engineering, 2023 (Expected)
       institution: Cornell University
       year: ""
     - course: B.Eng. in Electrical Engineering
