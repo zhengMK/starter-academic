@@ -15,7 +15,7 @@ social:
     link: https://github.com/zhengmk
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    link: www.linkedin.com/in/mingkai-zheng-83933021b
   - display:
       header: false
     label: cv
