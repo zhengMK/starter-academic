@@ -38,7 +38,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi, there! I am Mingkai Zheng, an incoming M.Eng. student in the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/). 
+Hi, there! I am Mingkai Zheng, an M.Eng. student in the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/). 
 
 I have participated in some research projects related to power electronics, especially in Dual-Active-Bridge (DAB) DC-DC Converter. Though this might be a minor research direction, still, I believe the accumulated research experience will be helpful for my future research projects, whether I choose to persist in this field or not.
 
