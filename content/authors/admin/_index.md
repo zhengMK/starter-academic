@@ -40,4 +40,4 @@ highlight_name: false
 ---
 Hi, there! I am Mingkai Zheng, an M.Eng. student in the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/). 
 
-🌟 **I am now actively looking for a job in software engineering or hardware engineering**. Life is full of possiblities and I love both software coding and hardware experiments, why just limit myself in pursuing one direction only? 
+🌟 **I am now actively looking for a job in software engineering**.
