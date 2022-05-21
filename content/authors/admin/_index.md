@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests mainly focuses on computer architecture.
 interests:
   - Computer Architecture
-  - Deep Learning
+  - Software Engineering
 social:
   - icon: envelope
     icon_pack: fas
