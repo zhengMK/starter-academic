@@ -22,7 +22,7 @@ interests:
   label: cv
   icon: cv
   icon_pack: ai
-  link: https://github.com/zhengMK/webpage-academic/blob/master/static/uploads/Mingkai%20Zheng-CV.pdf
+  link: https://github.com/zhengMK/starter-academic/blob/master/static/uploads/Resume-Mingkai%20Zheng.pdf
   organizations: []
   education:
   courses:
