@@ -51,7 +51,7 @@ social:
 - display:
     header: false
   label: cv
-- icon: cv
+  icon: cv
   icon_pack: ai
   link: https://github.com/zhengMK/starter-academic/blob/master/static/uploads/Resume-Mingkai%20Zheng.pdf
 
