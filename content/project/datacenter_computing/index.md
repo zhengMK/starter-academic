@@ -1,15 +1,15 @@
 ---
-title: ECE5720-Parallel Computing-Image Compression using CUDA
-summary: Using CUDA FFT to perform image compressions.
+title: ECE5710-Datacenter Computing-Movie Ticket Reservation Platform
+summary: An online movie ticket reservation platform.
 tags:
-- Parallel Computing
-date: "2016-04-27T00:00:00Z"
+- Microservices
+date: "2022-05-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mz588/parallel_project.git"
+external_link: "https://github.com/mz588/movieTicketReservation.git"
 
 image:
-  caption: The Forbidden City
+  caption: Homepage
   focal_point: Smart
 
 # links:
@@ -17,7 +17,7 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/mz588/parallel_project.git"
+url_code: "https://github.com/mz588/movieTicketReservation.git"
 url_pdf: ""
 url_slides: ""
 url_video: ""
