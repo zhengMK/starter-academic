@@ -27,10 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    # - name: Parallel Computing
-    #   tag: Parallel Computing
-    - name: Microservices
-      tag: Microservices
+    - name: Deep Learning
+      tag: Deep Learning
     - name: Other
       tag: Demo
 
