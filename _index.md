@@ -7,7 +7,8 @@ interests:
 
 - Computer Architecture
 - Software Engineering
-  social:
+
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:mz588@cornell.edu
