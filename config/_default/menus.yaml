@@ -10,8 +10,8 @@ main:
 #   - name: Posts
 #     url: '#posts'
 #     weight: 20
-#  - name: Projects
-#    url: '#projects'
+ - name: Projects
+   url: '#projects'
 #    weight: 30
 #  - name: Talks
 #    url: '#talks'
@@ -38,5 +38,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/Mingkai Zheng-CV.pdf
+    url: uploads/Resume-Mingkai Zheng.pdf
     weight: 40
