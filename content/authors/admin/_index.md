@@ -13,7 +13,7 @@ interests:
   link: mailto:mz588@cornell.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/zhengmk
+  link: https://github.com/mz588
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/mingkai-zheng-83933021b
