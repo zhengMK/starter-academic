@@ -1,5 +1,5 @@
 ---
-title: ECE5710-Datacenter Computing-Movie Ticket Reservation Platform
+title: Movie Ticket Reservation Platform
 summary: An online movie ticket reservation platform.
 tags:
 - Microservices

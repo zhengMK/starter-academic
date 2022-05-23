@@ -71,4 +71,4 @@ highlight_name: true
 
 Hi, there! I am Mingkai Zheng, an M.Eng. student in the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/). 
 
-🌟 **I am now actively looking for a job in software engineering**.
+🌟 **I am now actively looking for a full-time job in software engineering as a new graduate**.
