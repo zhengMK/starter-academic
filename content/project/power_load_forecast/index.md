@@ -1,5 +1,5 @@
 ---
-title: Power Load Forecast
+title: Short/Long-Term Power Load Forecast
 summary: Using LSTM model with federated learning to predict Cornell's power load
 tags:
 - Deep Learning
