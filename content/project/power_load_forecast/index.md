@@ -1,15 +1,15 @@
 ---
 title: Short/Long-Term Power Load Forecast
-summary: Using LSTM model with federated learning to predict Cornell's power load
+summary: Using LSTM with federated learning to predict Cornell's power load.
 tags:
 - Deep Learning
-date: "2022-05-27T00:00:00Z"
+date: "2022-05-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mz588/MEng_Project.git"
+external_link: "https://github.com/mz588/movieTicketReservation.git"
 
 image:
-  caption: The Forbidden City
+  caption: Homepage
   focal_point: Smart
 
 # links:
@@ -17,7 +17,7 @@ image:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/mz588/MEng_Project.git"
+url_code: "https://github.com/mz588/movieTicketReservation.git"
 url_pdf: ""
 url_slides: ""
 url_video: ""
