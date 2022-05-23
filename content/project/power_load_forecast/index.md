@@ -18,7 +18,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: "https://github.com/mz588/MEng_Project"
-url_pdf: ""
+url_pdf: "https://github.com/zhengMK/starter-academic/blob/master/static/uploads/Poster_mz588-rx25.pdf"
 url_slides: ""
 url_video: ""
 
