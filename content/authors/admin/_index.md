@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.Eng. in Electrical and Computer Engineering, 2023 (Expected)
+    - course: M.Eng. in Electrical and Computer Engineering, 2022 (Expected)
       institution: Cornell University
       year: ""
     - course: B.Eng. in Electrical Engineering
@@ -47,7 +47,7 @@ social:
   link: https://github.com/mz588
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/mingkai-zheng-83933021b
+  link: https://www.linkedin.com/in/mingkai-zheng-69224312b/
 - display:
     header: false
   label: cv
