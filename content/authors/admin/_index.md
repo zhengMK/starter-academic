@@ -6,11 +6,11 @@ title: Mingkai Zheng
 superuser: true
 
 # Role/position/tagline
-role: M.Eng. student in Dept. of ECE
+role: Research Engineering/Scientist Associate III at TACC
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
+  - name: Texas Advanced Computing Center
     url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,15 +18,15 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Computer Architecture
-  - Software Engineering
+  - High Performance Computing (HPC)
+  - Deep Learning (DL)
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.Eng. in Electrical and Computer Engineering, 2022 (Expected)
+    - course: M.Eng. in Electrical and Computer Engineering
       institution: Cornell University
-      year: ""
+      year: 2022
     - course: B.Eng. in Electrical Engineering
       institution: University of Liverpool
       year: 2020
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mz588@cornell.edu
+  link: mailto:mzheng@tacc.utexas.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/mz588
@@ -69,6 +69,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi, there! I am Mingkai Zheng, an M.Eng. student in the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/). 
+Hi, there! I am Mingkai Zheng. I am a member of [the learning (scalable computing intelligence) group](https://learning-tacc.github.io/) in the Data Intensive Computing Group at Texas Advanced Computing Center (TACC). Most of my works are related to HPC and DL. 
 
-🌟 **I am now actively looking for a full-time job in software engineering as a new graduate**.
+Before joining TACC, I received my Master of Engineering degree from the Department of Electrical and Computer Engineering at [Cornell University](https://www.cornell.edu/) and my Bachelor of Engineering degree from University of Liverpool.
